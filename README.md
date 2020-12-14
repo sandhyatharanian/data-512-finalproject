@@ -13,8 +13,8 @@ Link to the **dataset** can be accessed using the API Endpoint which can be foun
 
 ## Output Files:
 
- -Data retrieval and scrubbing - [A7 Data Retrieval - Scrubbing.ipynb](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/A7%20Data%20Retrieval%20-%20Scrubbing.ipynb) <br>
- -Final project Code - [A7 Final Project - Mission Emergency.ipynb](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/A7%20Final%20Project%20-%20Mission%20Emergency.ipynb) file. <br>
+ - Data retrieval and scrubbing - [A7 Data Retrieval - Scrubbing.ipynb](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/A7%20Data%20Retrieval%20-%20Scrubbing.ipynb) 
+ - Final project Code - [A7 Final Project - Mission Emergency.ipynb](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/A7%20Final%20Project%20-%20Mission%20Emergency.ipynb) file. 
  - Visuals - Output visuals are sorted as per the order of execution in the jupyter notebook and stored [here](https://github.com/sandhyatharanian/data-512-finalproject/tree/main/Output%20Visuals).
 
 ## Python packages used
