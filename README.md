@@ -84,6 +84,18 @@ The names of the 6 csv files are listed below -
  * [README.md](./README.md)
  * [dir3](./dir3)
 
+|-- .bowerrc
+    |-- .jshintrc
+    |-- .jshintrc2
+    |-- Gruntfile.js
+    |-- README.md
+    |-- bower.json
+    |-- karma.conf.js
+    |-- package.json
+    |-- app
+        |-- app.js
+        |-- db.js
+        |-- directoryList.md
 
 ## Python packages used
 
