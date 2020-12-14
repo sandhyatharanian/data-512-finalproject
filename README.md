@@ -13,7 +13,7 @@ Link to the **dataset** can be accessed using the API Endpoint which can be foun
 
 ## Dataset Description
 
-The data is collected for all available months from the API and the raw data is read into a dataframe. Next, the data is processed, transformed and finally saved as 6 separate `.csv` files with the naming convention – “cincinnati911_year.csv”. The final data is a combination of all 6 .csv files with the below column description.
+The data is collected for all available months using the API endpoint and the raw data is read into a dataframe. Next, the data is processed, transformed and finally saved as 6 separate `.csv` files with the naming convention – “cincinnati911_year.csv”. The final data is a combination of all 6 .csv files with the below column description.
 
 | Column | Value |
 | ------ | ----- |
