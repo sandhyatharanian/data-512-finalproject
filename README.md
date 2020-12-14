@@ -1,8 +1,7 @@
 ## Mission Emergency - Investigate analysis on Cincinnati 911 Calls
 
 ## Abstract 
-
-The 911 system was designed to provide a universal, easy-to-remember number for people to reach police, fire or emergency medical assistance from any phone in any location, without having to look up specific phone numbers. In 1966, the National Academy of Sciences published "[Accidental Death and Disability: The Neglected Disease of Modern Society](https://www.ems.gov/pdf/1997-Reproduction-AccidentalDeathDissability.pdf),” a landmark report highlighting how accidental death and injury, particularly from motor vehicle crashes, had become an epidemic in the U.S. The report urged a series of steps to reduce these needless deaths and injuries, including exploring the “feasibility of designating a single, nationwide, telephone number to summon an ambulance”  which resulted in the inception of 911 system. This final project explored the causes for contributing to the emergencies, average response time, and temporal variation within days of the week, and time of day for emergency calls in Cincinnati.
+In 1966, the National Academy of Sciences published "[Accidental Death and Disability: The Neglected Disease of Modern Society](https://www.ems.gov/pdf/1997-Reproduction-AccidentalDeathDissability.pdf),” a landmark report highlighting how accidental death and injury, particularly from motor vehicle crashes, had become an epidemic in the U.S. The report urged a series of steps to reduce these needless deaths and injuries, including exploring the “feasibility of designating a single, nationwide, telephone number to summon an ambulance”  which resulted in the inception of 911 system. This final project explored the causes for contributing to the emergencies, average response time, and temporal variation within days of the week, and time of day for emergency calls in Cincinnati.
 
 
 ## Data used
