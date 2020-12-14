@@ -72,30 +72,29 @@ The names of the 6 csv files are listed below -
  
 ## Directory tree structure
 
- * [tree-md](./tree-md)
- ├── [Input Data Files](https://github.com/sandhyatharanian/data-512-finalproject/tree/main/Input%20Data%20Files)
- │   ├── [cincinnati911_2015.csv](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Input%20Data%20Files/cincinnati911_2015.csv)
-   * [cincinnati911_2016.csv](./dir2/file22.ext)
-   * [cincinnati911_2017.csv](./dir2/file23.ext)
- * [dir1](./dir1)
-   * [file11.ext](./dir1/file11.ext)
-   * [file12.ext](./dir1/file12.ext)
- * [file_in_root.ext](./file_in_root.ext)
- * [README.md](./README.md)
- * [dir3](./dir3)
+ * [data-512-finalproject](https://github.com/sandhyatharanian/data-512-finalproject)
+   * [Input Data Files](https://github.com/sandhyatharanian/data-512-finalproject/tree/main/Input%20Data%20Files)
+    * [cincinnati911_2015.csv](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Input%20Data%20Files/cincinnati911_2015.csv)
+    * [cincinnati911_2016.csv](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Input%20Data%20Files/cincinnati911_2016.csv)
+    * [cincinnati911_2017.csv](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Input%20Data%20Files/cincinnati911_2017.csv)
+    * [cincinnati911_2018.csv](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Input%20Data%20Files/cincinnati911_2018.csv)
+    * [cincinnati911_2019.csv](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Input%20Data%20Files/cincinnati911_2019.csv)
+    * [cincinnati911_2020.csv](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Input%20Data%20Files/cincinnati911_2020.csv)
+   * [Output Visuals](https://github.com/sandhyatharanian/data-512-finalproject/tree/main/Output%20Visuals)
+    * [#1 Distribution of emergency vs non-emergency calls.JPG](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Output%20Visuals/%231%20Distribution%20of%20emergency%20vs%20non-emergency%20calls.JPG)
+    * [#2 Distribution of 911 calls by incident and service type.JPG](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Output%20Visuals/%232%20Distribution%20of%20911%20calls%20by%20incident%20and%20service%20type.JPG)
+    * [#3 YOY trend in emergency vs non-emergency call.JPG](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Output%20Visuals/%233%20YOY%20trend%20in%20emergency%20vs%20non-emergency%20call.JPG)
+    * [#4 Top reasons for emergency calls.JPG](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Output%20Visuals/%234%20Top%20reasons%20for%20emergency%20calls.JPG)
+    * [#5 Top reasons for non-emergency calls.JPG](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Output%20Visuals/%235%20Top%20reasons%20for%20non-emergency%20calls.JPG)
+    * [#6 YOY trend in average response rate.JPG](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Output%20Visuals/%236%20YOY%20trend%20in%20average%20response%20rate.JPG)
+    * [#7 Distribution of 911 calls based on time of the day.JPG](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Output%20Visuals/%237%20Distribution%20of%20911%20calls%20based%20on%20time%20of%20the%20day.JPG)
+    * [#8 Associations between the day of the week and hour.JPG](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Output%20Visuals/%238%20Associations%20between%20the%20day%20of%20the%20week%20and%20hour.JPG)
+ * [.gitignore](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/.gitignore)
+ * [A7 Data Retrieval - Scrubbing.ipynb](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/A7%20Data%20Retrieval%20-%20Scrubbing.ipynb)
+ * [A7 Final Project - Mission Emergency.ipynb](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/A7%20Final%20Project%20-%20Mission%20Emergency.ipynb)
+ * [LICENSE](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/LICENSE)
+ * [README.md](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/README.md)
 
-|-- .bowerrc
-    |-- .jshintrc
-    |-- .jshintrc2
-    |-- Gruntfile.js
-    |-- README.md
-    |-- bower.json
-    |-- karma.conf.js
-    |-- package.json
-    |-- app
-        |-- app.js
-        |-- db.js
-        |-- directoryList.md
 
 ## Python packages used
 
