@@ -69,6 +69,15 @@ The names of the 6 csv files are listed below -
  - Data retrieval and scrubbing - [A7 Data Retrieval - Scrubbing.ipynb](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/A7%20Data%20Retrieval%20-%20Scrubbing.ipynb) 
  - Final project Code - [A7 Final Project - Mission Emergency.ipynb](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/A7%20Final%20Project%20-%20Mission%20Emergency.ipynb) file. 
  - Visuals - Output visuals are sorted as per the order of execution in the jupyter notebook and stored [here](https://github.com/sandhyatharanian/data-512-finalproject/tree/main/Output%20Visuals).
+ 
+## Directory tree structure
+
+$ ./tree-md .
+# Project tree
+
+.
+ * [tree-md](./tree-md)
+
 
 ## Python packages used
 
@@ -90,6 +99,3 @@ Note - Packages used along with its version can be found using **pip list** comm
 ## License Information
 
 License information for the dataset can be found [here](https://opendatacommons.org/licenses/pddl/1-0/).
-
-
-## directory tree in your markdown and an elementary description of each folder/file. 
