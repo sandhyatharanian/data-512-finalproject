@@ -70,17 +70,17 @@ The names of the 6 csv files are listed below -
  - Final project Code - [A7 Final Project - Mission Emergency.ipynb](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/A7%20Final%20Project%20-%20Mission%20Emergency.ipynb) file. 
  - Visuals - Output visuals are sorted as per the order of execution in the jupyter notebook and stored [here](https://github.com/sandhyatharanian/data-512-finalproject/tree/main/Output%20Visuals).
  
-## Directory tree structure
+## Directory folder structure
 
- * [data-512-finalproject](https://github.com/sandhyatharanian/data-512-finalproject)
-     * [Input Data Files](https://github.com/sandhyatharanian/data-512-finalproject/tree/main/Input%20Data%20Files)
+ * [data-512-finalproject](https://github.com/sandhyatharanian/data-512-finalproject) - Repository
+     * [Input Data Files](https://github.com/sandhyatharanian/data-512-finalproject/tree/main/Input%20Data%20Files) - Input data files are stored
          * [cincinnati911_2015.csv](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Input%20Data%20Files/cincinnati911_2015.csv)
          * [cincinnati911_2016.csv](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Input%20Data%20Files/cincinnati911_2016.csv)
          * [cincinnati911_2017.csv](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Input%20Data%20Files/cincinnati911_2017.csv)
          * [cincinnati911_2018.csv](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Input%20Data%20Files/cincinnati911_2018.csv)
          * [cincinnati911_2019.csv](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Input%20Data%20Files/cincinnati911_2019.csv)
          * [cincinnati911_2020.csv](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Input%20Data%20Files/cincinnati911_2020.csv)
-     * [Output Visuals](https://github.com/sandhyatharanian/data-512-finalproject/tree/main/Output%20Visuals)
+     * [Output Visuals](https://github.com/sandhyatharanian/data-512-finalproject/tree/main/Output%20Visuals) - Output visuals are stored
          * [#1 Distribution of emergency vs non-emergency calls.JPG](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Output%20Visuals/%231%20Distribution%20of%20emergency%20vs%20non-emergency%20calls.JPG)
          * [#2 Distribution of 911 calls by incident and service type.JPG](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Output%20Visuals/%232%20Distribution%20of%20911%20calls%20by%20incident%20and%20service%20type.JPG)
          * [#3 YOY trend in emergency vs non-emergency call.JPG](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Output%20Visuals/%233%20YOY%20trend%20in%20emergency%20vs%20non-emergency%20call.JPG)
@@ -90,10 +90,10 @@ The names of the 6 csv files are listed below -
          * [#7 Distribution of 911 calls based on time of the day.JPG](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Output%20Visuals/%237%20Distribution%20of%20911%20calls%20based%20on%20time%20of%20the%20day.JPG)
          * [#8 Associations between the day of the week and hour.JPG](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/Output%20Visuals/%238%20Associations%20between%20the%20day%20of%20the%20week%20and%20hour.JPG)
  * [.gitignore](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/.gitignore)
- * [A7 Data Retrieval - Scrubbing.ipynb](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/A7%20Data%20Retrieval%20-%20Scrubbing.ipynb)
- * [A7 Final Project - Mission Emergency.ipynb](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/A7%20Final%20Project%20-%20Mission%20Emergency.ipynb)
- * [LICENSE](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/LICENSE)
- * [README.md](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/README.md)
+ * [A7 Data Retrieval - Scrubbing.ipynb](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/A7%20Data%20Retrieval%20-%20Scrubbing.ipynb) - Data retrieval and scrubbing script
+ * [A7 Final Project - Mission Emergency.ipynb](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/A7%20Final%20Project%20-%20Mission%20Emergency.ipynb) - Main project jupyter notebook
+ * [LICENSE](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/LICENSE) 
+ * [README.md](https://github.com/sandhyatharanian/data-512-finalproject/blob/main/README.md) 
 
 
 ## Python packages used
