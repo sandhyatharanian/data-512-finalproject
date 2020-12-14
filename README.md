@@ -23,7 +23,7 @@ Link to the **dataset** can be accessed using the API Endpoint which can be foun
 - seaborn  version 0.10.0
 - matplotlib version 3.1.3
 - tabulate version 0.8.7
-- sodapy version 
+- sodapy version 2.1.0
 
 Note - Packages used along with its version can be found using **pip list** command.
 
@@ -37,7 +37,5 @@ Note - Packages used along with its version can be found using **pip list** comm
 
 License information for the dataset can be found [here](https://opendatacommons.org/licenses/pddl/1-0/).
 
-
-##  various packages and their versions 
 
 ## directory tree in your markdown and an elementary description of each folder/file. 
